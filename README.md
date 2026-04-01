@@ -30,7 +30,9 @@
 
 ### Ответ 1
 
-<img width="1006" height="920" alt="13-021" src="https://github.com/user-attachments/assets/2f047ba2-3eeb-4cc4-bfe2-bc9baa09ddef" />
+
+<img width="1006" height="876" alt="13-021" src="https://github.com/user-attachments/assets/1cd2084f-0494-4c91-8c20-0e51f2abbe28" />
+
 
 ### Задание 2
 
